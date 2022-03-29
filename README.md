@@ -10,4 +10,5 @@ This is the place where I opensource stuff and break things 🤣
 ⚡ Fun fact: I love reading books, helping to someones or somethings and I love animals.
 🥅 2022 Goals: Learn more about software...
 
-https://github-readme-stats.vercel.app/api?username=hsynerkl&theme=dark&show_icons=true
+
+https://github-readme-stats.vercel.app/api?username=hsynerkl&theme=highcontrast&show_icons=true&count_private=true
