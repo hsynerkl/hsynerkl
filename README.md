@@ -13,7 +13,7 @@ Hi there 👋
 
  ⚡ Fun fact: I love reading books, helping to someones or somethings and I love animals.
 
- 🥅 2022 Goals: Learn more about software...
+ 🥅 2023 Goals: Learn more about software...
 
 
 
