@@ -1,29 +1,17 @@
 const anmol = {
 
     code: ["Javascript", "Typescript"],
-	
     askMeAbout: ["web dev", "tech", "app dev"],
-	
     technologies: {
-	
         mobileApp: ["React Native"],
-		
         frontEnd: {
-		
-            js: ["Reactjs", "Nextjs"],
-			
-            css: ["Tailwind", "Bootstrap", "MUI", "SCSS"]
-			
+            js: ["Reactjs", "Nextjs"],	
+            css: ["Tailwind", "Bootstrap", "MUI", "SCSS"]	
         },
-		
         backEnd: {
-		
-            js: ["Nodejs", "Express"],
-			
+            js: ["Nodejs", "Express"],		
         },
-		
-        databases: ["Mongo"],
-		
+        databases: ["Mongo"],	
         misc: ["Firebase"]
     },
 
