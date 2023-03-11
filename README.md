@@ -1,4 +1,5 @@
 const anmol = {
+
     code: ["Javascript", "Typescript"],
     askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
@@ -12,7 +13,8 @@ const anmol = {
         },
         databases: ["Mongo"],	
         misc: ["Firebase"]
-    },
+        
+    }
     
 
 ![Github istatistikleri]( https://github-readme-stats.vercel.app/api?username=hsynerkl&theme=highcontrast&show_icons=true&count_private=true )
