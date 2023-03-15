@@ -1,3 +1,5 @@
+<img src="https://komarev.com/ghpvc/?username=hsynerkal&label=Profile%20views&color=0e75b6&style=flat" alt="hsynerkal" /> </p>
+
 <h1 align="center">Hi 👋,  I'm Hüseyin</h1>
 <h3 align="center">A passionate frontend developer from EnterERP</h3>
 
