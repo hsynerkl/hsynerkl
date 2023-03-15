@@ -1,4 +1,6 @@
-<img src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/stewie-griffin-1/sticker_15.png?4b67d9967b05af8af74d6b0e732c5ac6&d=200x200" alt="banner" /> </p>
+<div style='width:100%; display:flex; justify-content:center'>
+  <img style='width:66%;' src="https://s3.getstickerpack.com/storage/uploads/sticker-pack/stewie-griffin-1/sticker_15.png?4b67d9967b05af8af74d6b0e732c5ac6&d=200x200" alt="banner" /> 
+ </div>
 
 <h1 align="center">Hi 👋,  I'm Hüseyin</h1>
 <h3 align="center">A passionate frontend developer from EnterERP</h3>
