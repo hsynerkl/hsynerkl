@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React, NextJS, JS, TS**
 
-- 👨‍💻 All of my projects are available at **huseyinerkal.vercel.app**
+- 👨‍💻 All of my projects are available at **hsynerkl.vercel.app**
 
 - ⭐️ I usually use bitbucket
 
