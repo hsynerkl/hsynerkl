@@ -31,3 +31,5 @@
 <p><a href="https://www.buymeacoffee.com/hsynerkl"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hsynerkl" /></a></p><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hsynerkl&show_icons=true&locale=en" alt="hsynerkal" /></p>
+
+<a href="https://app.daily.dev/hsynerkl"><img src="https://api.daily.dev/devcards/69619582008947c88ac1c8f7e3537c79.png?r=ax3" width="400" alt="Hüseyin Erkal's Dev Card"/></a>
