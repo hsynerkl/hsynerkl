@@ -32,4 +32,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hsynerkl&show_icons=true&locale=en" alt="hsynerkal" /></p>
 
-<a href="https://app.daily.dev/hsynerkl"><img src="https://api.daily.dev/devcards/69619582008947c88ac1c8f7e3537c79.png?r=4az" width="400" alt="Hüseyin Erkal's Dev Card"/></a>
+<a href="https://app.daily.dev/hsynerkl"><img src="https://api.daily.dev/devcards/69619582008947c88ac1c8f7e3537c79.png?r=uxs" width="400" alt="Hüseyin Erkal's Dev Card"/></a>
