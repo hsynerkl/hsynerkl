@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hsynerkl34@gmail.com**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Go**
 
 - 💬 Ask me about **React, NextJS, JS, TS**
 
